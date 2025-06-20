@@ -5,6 +5,7 @@ An example to show the principle of rendering HDR content on macOS.
 
 ### Prerequisites
 
+- Using a monitor that support HDR, such as MacBook built-in monitor.
 - macOS 10.15+
 - CMake 3.15+
   - `brew install cmake`
